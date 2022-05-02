@@ -1,0 +1,24 @@
+Welcome to Alpha Vantage! 
+Your API key is: E08DWT9C2ZKMT1RR. 
+Please record this API key at a safe place for future data access.
+
+Your API key is: f241e24aaf25403aab3d94682d003ccf
+For help getting started please look at our getting started guide.
+
+
+## STEP 1: Use https://www.alphavantage.co
+# When STOCK price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
+
+## STEP 2: Use https://newsapi.org
+# Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME. 
+
+## STEP 3: Use https://www.twilio.com
+# Send a seperate message with the percentage change and each article's title and description to your phone number. 
+
+
+#Optional: Format the SMS message like this: 
+"""
+
+Twilio tokens:
+697cfa2e9863bbe1796f32cf33b2e10f - primary
+e3ddf96c7aad986b866fa83843645b70 - secondary
