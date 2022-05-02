@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 name,email,year,month,day
 Test,test@email.com,1961,12,21
+=======
+name,email,year,month,day
+Test,test@email.com,1961,12,21
+>>>>>>> 6bb0f90e7b2042da98278b61b14da243c44df510
 [Fill this in!]

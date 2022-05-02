@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Dear [NAME],
 
 It's your birthday! Have a great day!
 
 All my love,
 
+=======
+Dear [NAME],
+
+It's your birthday! Have a great day!
+
+All my love,
+
+>>>>>>> 6bb0f90e7b2042da98278b61b14da243c44df510
 Angela

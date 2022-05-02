@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Hey [NAME],
 
 Happy birthday! Have a wonderful time today and eat lots of cake!
 
 Lots of love,
 
+=======
+Hey [NAME],
+
+Happy birthday! Have a wonderful time today and eat lots of cake!
+
+Lots of love,
+
+>>>>>>> 6bb0f90e7b2042da98278b61b14da243c44df510
 Angela

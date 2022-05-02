@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Dear [NAME],
 
 Happy birthday!
 
 All the best for the year!
 
+=======
+Dear [NAME],
+
+Happy birthday!
+
+All the best for the year!
+
+>>>>>>> 6bb0f90e7b2042da98278b61b14da243c44df510
 Angela

@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 {
     "Amazon": {
         "email": "nazar.ivankevych@gmail.com",
         "password": "4GGZQ$KP&2gCkX"
     }
+=======
+{
+    "Amazon": {
+        "email": "nazar.ivankevych@gmail.com",
+        "password": "4GGZQ$KP&2gCkX"
+    }
+>>>>>>> 6bb0f90e7b2042da98278b61b14da243c44df510
 }
