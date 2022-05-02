@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# udemy_projects
-udemy cource on Python
 =======
 # pet_projects
 Some pet projects to increase skills in Python
